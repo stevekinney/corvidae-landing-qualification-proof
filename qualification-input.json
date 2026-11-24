@@ -1,4 +1,4 @@
 {
-  "selection": ["value-control"],
-  "observed": "healthy"
+  "selection": [],
+  "emptyReason": "This synthetic case contains no value-control fixture."
 }
