@@ -1,4 +1,6 @@
 {
-  "selection": ["value-control"],
-  "observed": "healthy"
+  "selection": [
+    "value-control"
+  ],
+  "observed": "planted-incorrect-value"
 }
